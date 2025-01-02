@@ -71,23 +71,24 @@ class BibleBot:
         message = [
             f"# Bible in a Year Day {entry['day']} ({date.strftime('%B %d')}) {entry['period']}",
             "",
-            "## Readings",
+            "# Readings:",
             "",
-            f"### First Reading",
-            f"{entry['first_reading']['book']} Chapter(s) {entry['first_reading']['chapters']}"
+            f"## First Reading:",
+            f"***{entry['first_reading']['book']} Chapter(s): {entry['first_reading']['chapters']} Verses: {entry['first_reading'].get('verses', '')}***"
         ]
         
+        # Check if second reading exists and is not "none"
         if entry['second_reading'] != "none":
             message.extend([
                 "",
-                "### Second Reading",
-                entry['second_reading']
+                "## Second Reading:",
+                f"***{entry['second_reading']['book']} Chapter(s): {entry['second_reading']['chapters']} Verses: {entry['second_reading'].get('verses', '')}***"
             ])
             
         message.extend([
             "",
-            "### Poem",
-            f"{entry['poem']['book']} {entry['poem']['chapters']}"
+            "##  Psalms / Proverbs / Song:",
+            f"***{entry['poem']['book']} Chapter(s): {entry['poem']['chapters']} Verses: {entry['poem'].get('verses', '')}***"
         ])
         
         return "\n".join(message)
@@ -125,8 +126,8 @@ class BibleBot:
         self.scheduler.add_job(
             self.send_bible_message,
             CronTrigger(
-                hour=0, 
-                minute=0, 
+                hour=2, 
+                minute=5, 
                 second=0, 
                 timezone=self.timezone
             )
