@@ -1,0 +1,6601 @@
+[
+    {
+        "day": 1,
+        "period": "Early World",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "19",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 2,
+        "period": "Early World",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "104",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 3,
+        "period": "Early World",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "136",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 4,
+        "period": "Early World",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "7-9",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "1",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 5,
+        "period": "Early World",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "2",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 6,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "1",
+            "verses": "1-7"
+        }
+    },
+    {
+        "day": 7,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "14-15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "1",
+            "verses": "8-19"
+        }
+    },
+    {
+        "day": 8,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "16-17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "1",
+            "verses": "20-33"
+        }
+    },
+    {
+        "day": 9,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "18-19",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "2",
+            "verses": "1-5"
+        }
+    },
+    {
+        "day": 10,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "20-21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "2",
+            "verses": "6-8"
+        }
+    },
+    {
+        "day": 11,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "22-23",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "2",
+            "verses": "9-15"
+        }
+    },
+    {
+        "day": 12,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "2",
+            "verses": "16-19"
+        }
+    },
+    {
+        "day": 13,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "25-26",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "2",
+            "verses": "20-22"
+        }
+    },
+    {
+        "day": 14,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "27-28",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "17-18",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 15,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "29-30",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "19-20",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 16,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "31-32",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "21-22",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 17,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "33-34",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "23-24",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "13-18"
+        }
+    },
+    {
+        "day": 18,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "35-36",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "25-26",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "19-24"
+        }
+    },
+    {
+        "day": 19,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "37",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "27-28",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "25-27"
+        }
+    },
+    {
+        "day": 20,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "38",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "29-30",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "28-32"
+        }
+    },
+    {
+        "day": 21,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "39-40",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "31-32",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "3",
+            "verses": "33-35"
+        }
+    },
+    {
+        "day": 22,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "41-42",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "33-34",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "4",
+            "verses": "1-9"
+        }
+    },
+    {
+        "day": 23,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "43-44",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "35-36",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "4",
+            "verses": "10-19"
+        }
+    },
+    {
+        "day": 24,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "45-46",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "37-38",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "4",
+            "verses": "20-27"
+        }
+    },
+    {
+        "day": 25,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "47-48",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "39-40",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "16",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 26,
+        "period": "Patriarchs",
+        "first_reading": {
+            "book": "Genesis",
+            "chapters": "49-50",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Job",
+            "chapters": "41-42",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "17",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 27,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "44",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 28,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "2-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "45",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 29,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "46",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 30,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "47",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 31,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "48",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 32,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "49",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 33,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "50",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 34,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "114",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 35,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "53",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 36,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "71",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 37,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "17-18",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "73",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 38,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "19-20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "74",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 39,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "75",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 40,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "76",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 41,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "77",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 42,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "17-18",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "78",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 43,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "25-26",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "19",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "119",
+            "verses": "1-56"
+        }
+    },
+    {
+        "day": 44,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "27-28",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "20",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "119",
+            "verses": ""
+        }
+    },
+    {
+        "day": 45,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "29",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "119",
+            "verses": "121-176"
+        }
+    },
+    {
+        "day": 46,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "30-31",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "115",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 47,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "32",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "79",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 48,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "33-34",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "80",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 49,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "35-36",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "25",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "81",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 50,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "37-38",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "26",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "82",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 51,
+        "period": "Egypt and Exodus",
+        "first_reading": {
+            "book": "Exodus",
+            "chapters": "39-40",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Leviticus",
+            "chapters": "27",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "83",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 52,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "84",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 53,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "85",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 54,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "87",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 55,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "88",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 56,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "90",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 57,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "91",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 58,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "92",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 59,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "8-9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "93",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 60,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "10",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 61,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "33",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 62,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "94",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 63,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "95",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 64,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "96",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 65,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "97",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 66,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "17-18",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "98",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 67,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "18",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "19-20",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "99",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 68,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "19-20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "100",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 69,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "102",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 70,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "105",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 71,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "24-25",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "106",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 72,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "24-25",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "26",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "107",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 73,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "26",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "27",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "111",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 74,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "27-28",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "28",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "112",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 75,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "29-30",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "29",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "113",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 76,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "31",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "30",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "116",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 77,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "32",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "31",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "117",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 78,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "33",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "32",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "118",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 79,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "34",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "33",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "120",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 80,
+        "period": "Desert Wanderings",
+        "first_reading": {
+            "book": "Numbers",
+            "chapters": "35-36",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Deuteronomy",
+            "chapters": "34",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "121",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 81,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "1-4",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "123",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 82,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "5-7",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "125",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 83,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "8-9",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "126",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 84,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "128",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 85,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "12-14",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "129",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 86,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "15-18",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "130",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 87,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "19-21",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "131",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 88,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Joshua",
+            "chapters": "22-24",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "132",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 89,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Judges",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ruth",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "133",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 90,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Judges",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ruth",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "134",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 91,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Judges",
+            "chapters": "6-8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ruth",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "135",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 92,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Judges",
+            "chapters": "9-11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ruth",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "137",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 93,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Judges",
+            "chapters": "12-15",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "146",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 94,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Judges",
+            "chapters": "16-18",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "147",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 95,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "Judges",
+            "chapters": "19-21",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "148",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 96,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "149",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 97,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "3-5",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "150",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 98,
+        "period": "Conquest and Judges",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "6-8",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "86",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 99,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "John",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "5",
+            "verses": "1-6"
+        }
+    },
+    {
+        "day": 100,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "John",
+            "chapters": "4-6",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "5",
+            "verses": "7-14"
+        }
+    },
+    {
+        "day": 101,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "John",
+            "chapters": "7-9",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "5",
+            "verses": "15-23"
+        }
+    },
+    {
+        "day": 102,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "John",
+            "chapters": "10-12",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "6",
+            "verses": "1-5"
+        }
+    },
+    {
+        "day": 103,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "John",
+            "chapters": "13-15",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "6",
+            "verses": "6-11"
+        }
+    },
+    {
+        "day": 104,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "John",
+            "chapters": "16-18",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "6",
+            "verses": "12-15"
+        }
+    },
+    {
+        "day": 105,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "John",
+            "chapters": "19-21",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "6",
+            "verses": "16-22"
+        }
+    },
+    {
+        "day": 106,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "6",
+            "verses": "23-35"
+        }
+    },
+    {
+        "day": 107,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "55",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 108,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "58",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 109,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "61",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 110,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "17",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "12",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 111,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "18-19",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "59",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 112,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "20",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "142",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 113,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "21-22",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "52",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 114,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "54",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 115,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "57",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 116,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "25",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "63",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 117,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "26",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "56",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 118,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "27-28",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "34",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 119,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Samuel",
+            "chapters": "29-31",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "18",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 120,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "13",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 121,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "24",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 122,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "25",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 123,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "26",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 124,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "27",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 125,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "89",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 126,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "60",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 127,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "28",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 128,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "31",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 129,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "14-15",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "32",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 130,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "51",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 131,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "17",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "35",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 132,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "18",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "14",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 133,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "19-20",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "3",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 134,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "15",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 135,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "36",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 136,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "18",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "37",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 137,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "19",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "38",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 138,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "25",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "39",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 139,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "26",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "40",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 140,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "27",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "41",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 141,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "28",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "42",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 142,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "2Samuel",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Chronicles",
+            "chapters": "29",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "30",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 143,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "43",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 144,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "2-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "62",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 145,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "64",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 146,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "65",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 147,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "66",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 148,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "4",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 149,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ecclesiastes",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "5",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 150,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ecclesiastes",
+            "chapters": "3-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "6",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 151,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ecclesiastes",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "7",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 152,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ecclesiastes",
+            "chapters": "8-9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "8",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 153,
+        "period": "Royal Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ecclesiastes",
+            "chapters": "10-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "9",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 154,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "11",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 155,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "20",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 156,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "21",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 157,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "23",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 158,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "29",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 159,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "67",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 160,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "68",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 161,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Mark",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Psalm",
+            "chapters": "22",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 162,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 163,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 164,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "14-15",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 165,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "16-17",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 166,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "17-18",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "18-19",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 167,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "19-20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "20",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 168,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "21-22",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 169,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "1Kings",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Song",
+            "chapters": "of",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 170,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "69",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 171,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "25",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "70",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 172,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "26-27",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "72",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 173,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "28",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "127",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 174,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hosea",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "101",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 175,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hosea",
+            "chapters": "4-7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "103",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 176,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hosea",
+            "chapters": "8-10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "108",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 177,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hosea",
+            "chapters": "11-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "109",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 178,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Amos",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "110",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 179,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Amos",
+            "chapters": "4-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "122",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 180,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Amos",
+            "chapters": "7-9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "124",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 181,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Jonah",
+            "chapters": "1-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "138",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 182,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Micah",
+            "chapters": "1-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "139",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 183,
+        "period": "Divided Kingdom",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Micah",
+            "chapters": "5-7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "140",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 184,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "18",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "29",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "141",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 185,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "19",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "30",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "143",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 186,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "31",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "144",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 187,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "32",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Psalm",
+            "chapters": "145",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 188,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "33",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "7",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 189,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "34",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "8",
+            "verses": "1-21"
+        }
+    },
+    {
+        "day": 190,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "35",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "8",
+            "verses": "22-36"
+        }
+    },
+    {
+        "day": 191,
+        "period": "Exile",
+        "first_reading": {
+            "book": "2Kings",
+            "chapters": "25",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Chronicles",
+            "chapters": "36",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "9",
+            "verses": "1-6"
+        }
+    },
+    {
+        "day": 192,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Tobit",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "9",
+            "verses": "7-12"
+        }
+    },
+    {
+        "day": 193,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Tobit",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "9",
+            "verses": "13-18"
+        }
+    },
+    {
+        "day": 194,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Tobit",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 195,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Tobit",
+            "chapters": "7-9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 196,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Tobit",
+            "chapters": "10-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 197,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "11-13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Tobit",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 198,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "14-15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Joel",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 199,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "16-17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Joel",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 200,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "18-20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Nahum",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 201,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "21-22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Nahum",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "10",
+            "verses": "29-32"
+        }
+    },
+    {
+        "day": 202,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "23-24",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Habakkuk",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 203,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "25-27",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Habakkuk",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 204,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "28-29",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zephaniah",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 205,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "30-31",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zephaniah",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 206,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "32-33",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Baruch",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 207,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "34-36",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Baruch",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 208,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "37-38",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Baruch",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 209,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "39-40",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "11",
+            "verses": "29-31"
+        }
+    },
+    {
+        "day": 210,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "41-42",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "2-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "12",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 211,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "43-44",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "12",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 212,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "45-46",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "12",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 213,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "47-48",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "8-9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "12",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 214,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "49-50",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "12",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 215,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "51-52",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "12",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 216,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "53-54",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "14-15",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "12",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 217,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "55-56",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "13",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 218,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "57-58",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "17-18",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "13",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 219,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "59-60",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "19",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "13",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 220,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "61-62",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "20",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "13",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 221,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "63-64",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "21-22",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "13",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 222,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "65",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "23-24",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "13",
+            "verses": "21-25"
+        }
+    },
+    {
+        "day": 223,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Isaiah",
+            "chapters": "66",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "25-26",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 224,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "27",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 225,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "28",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 226,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "29-30",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 227,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "31-32",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 228,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "33",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 229,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "34-35",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 230,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "36",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "29-32"
+        }
+    },
+    {
+        "day": 231,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "37-38",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "14",
+            "verses": "33-35"
+        }
+    },
+    {
+        "day": 232,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "39",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 233,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "40",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 234,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "41-42",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 235,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "14-15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "43-44",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 236,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "16-17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "45-46",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 237,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "18-19",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ezekiel",
+            "chapters": "47-48",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 238,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "20-21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 239,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "15",
+            "verses": "29-33"
+        }
+    },
+    {
+        "day": 240,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 241,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "24-25",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 242,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "26-27",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "8-9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 243,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "28-29",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 244,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "30",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 245,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "31",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Daniel",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 246,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "32",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Judith",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 247,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "33-34",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Judith",
+            "chapters": "3-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "16",
+            "verses": "29-33"
+        }
+    },
+    {
+        "day": 248,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "35-36",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Judith",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "17",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 249,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "37-38",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Judith",
+            "chapters": "8-9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "17",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 250,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "39-40",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Judith",
+            "chapters": "10-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "17",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 251,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "41-42",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Judith",
+            "chapters": "12-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "17",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 252,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "43-44",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Judith",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "17",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 253,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "45-46",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Lamentations",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "17",
+            "verses": "21-28"
+        }
+    },
+    {
+        "day": 254,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "47-48",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Lamentations",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "18",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 255,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "49-50",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Lamentations",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "18",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 256,
+        "period": "Exile",
+        "first_reading": {
+            "book": "Jeremiah",
+            "chapters": "51",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Lamentations",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "18",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 258,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "1-4",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "18",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 259,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "5-7",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "18",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 260,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "8-10",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "19",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 261,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "11-13",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "19",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 262,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "14-17",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "19",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 263,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "18-21",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "19",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 264,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "22-24",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "19",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 265,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "25-26",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "19",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 266,
+        "period": "Messianic Checkpoint",
+        "first_reading": {
+            "book": "Matthew",
+            "chapters": "27-28",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "19",
+            "verses": "25-29"
+        }
+    },
+    {
+        "day": 267,
+        "period": "Return",
+        "first_reading": {
+            "book": "Ezra",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Haggai",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "1-3"
+        }
+    },
+    {
+        "day": 268,
+        "period": "Return",
+        "first_reading": {
+            "book": "Ezra",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zechariah",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "4-7"
+        }
+    },
+    {
+        "day": 269,
+        "period": "Return",
+        "first_reading": {
+            "book": "Ezra",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zechariah",
+            "chapters": "4-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "8-11"
+        }
+    },
+    {
+        "day": 270,
+        "period": "Return",
+        "first_reading": {
+            "book": "Ezra",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zechariah",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "12-15"
+        }
+    },
+    {
+        "day": 271,
+        "period": "Return",
+        "first_reading": {
+            "book": "Ezra",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zechariah",
+            "chapters": "9-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "16-19"
+        }
+    },
+    {
+        "day": 272,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zechariah",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "20-22"
+        }
+    },
+    {
+        "day": 273,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Zechariah",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "23-26"
+        }
+    },
+    {
+        "day": 274,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Esther",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "20",
+            "verses": "27-30"
+        }
+    },
+    {
+        "day": 275,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Esther",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "21",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 276,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Esther",
+            "chapters": "3,",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "13",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 277,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Esther",
+            "chapters": "4,",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "14",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 278,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Esther",
+            "chapters": "15,",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "6-7",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 279,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Esther",
+            "chapters": "8,",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "16",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 280,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Esther",
+            "chapters": "9-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "21",
+            "verses": "21-24"
+        }
+    },
+    {
+        "day": 281,
+        "period": "Return",
+        "first_reading": {
+            "book": "Nehemiah",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Malachi",
+            "chapters": "1-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "21",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 282,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "21",
+            "verses": "29-31"
+        }
+    },
+    {
+        "day": 283,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "4-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "22",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 284,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "7-9",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "22",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 285,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "10-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "22",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 286,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "13-15",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "22",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 287,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "16-18",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "22",
+            "verses": "17-21"
+        }
+    },
+    {
+        "day": 288,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "19-21",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "22",
+            "verses": "22-25"
+        }
+    },
+    {
+        "day": 289,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "22-23",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "22",
+            "verses": "26-29"
+        }
+    },
+    {
+        "day": 290,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "24-25",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 291,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "26-27",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "5-8"
+        }
+    },
+    {
+        "day": 292,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "28-29",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "9-12"
+        }
+    },
+    {
+        "day": 293,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "30-31",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 294,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "32-33",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "17-21"
+        }
+    },
+    {
+        "day": 295,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "34-35",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "22-25"
+        }
+    },
+    {
+        "day": 296,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "36-37",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "26-28"
+        }
+    },
+    {
+        "day": 297,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "1Maccabees",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "38-39",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "23",
+            "verses": "29-35"
+        }
+    },
+    {
+        "day": 298,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "40-41",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "1-7"
+        }
+    },
+    {
+        "day": 299,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "42-44",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "8-9"
+        }
+    },
+    {
+        "day": 300,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "45-46",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "10-12"
+        }
+    },
+    {
+        "day": 301,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "47-49",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 302,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Sirach",
+            "chapters": "50-51",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "17-20"
+        }
+    },
+    {
+        "day": 303,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "21-26"
+        }
+    },
+    {
+        "day": 304,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "27-29"
+        }
+    },
+    {
+        "day": 305,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "24",
+            "verses": "30-34"
+        }
+    },
+    {
+        "day": 306,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "1-3"
+        }
+    },
+    {
+        "day": 307,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "4-7"
+        }
+    },
+    {
+        "day": 308,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "8-10"
+        }
+    },
+    {
+        "day": 309,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "11-14"
+        }
+    },
+    {
+        "day": 310,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "15-17"
+        }
+    },
+    {
+        "day": 311,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "17-18",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "18-20"
+        }
+    },
+    {
+        "day": 312,
+        "period": "Maccabean Revolt",
+        "first_reading": {
+            "book": "2Maccabees",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Wisdom",
+            "chapters": "19",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "21-23"
+        }
+    },
+    {
+        "day": 313,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "24-26"
+        }
+    },
+    {
+        "day": 314,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "3-5",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "25",
+            "verses": "27-28"
+        }
+    },
+    {
+        "day": 315,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "6-8",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "1-3"
+        }
+    },
+    {
+        "day": 316,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "4-6"
+        }
+    },
+    {
+        "day": 317,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "7-9"
+        }
+    },
+    {
+        "day": 318,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "13-16",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "10-12"
+        }
+    },
+    {
+        "day": 319,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "17-19",
+            "verses": "all"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "13-16"
+        }
+    },
+    {
+        "day": 320,
+        "period": "Messianic Fulfillment",
+        "first_reading": {
+            "book": "Luke",
+            "chapters": "20-22",
+            "verses": "38"
+        },
+        "second_reading": "none",
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "17-19"
+        }
+    },
+    {
+        "day": 322,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "1",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "24-26"
+        }
+    },
+    {
+        "day": 323,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "2-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "26",
+            "verses": "27-28"
+        }
+    },
+    {
+        "day": 324,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "1-3"
+        }
+    },
+    {
+        "day": 325,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "4",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "6-7",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "4-6"
+        }
+    },
+    {
+        "day": 326,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "7-9"
+        }
+    },
+    {
+        "day": 327,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "6",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "10-12"
+        }
+    },
+    {
+        "day": 328,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "13-14"
+        }
+    },
+    {
+        "day": 329,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "8",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "15-17"
+        }
+    },
+    {
+        "day": 330,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "9",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Romans",
+            "chapters": "15-16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "18-20"
+        }
+    },
+    {
+        "day": 331,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "10",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "21-22"
+        }
+    },
+    {
+        "day": 332,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "11",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "27",
+            "verses": "23-27"
+        }
+    },
+    {
+        "day": 333,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "12",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "5-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "1-3"
+        }
+    },
+    {
+        "day": 334,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "13",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "7-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "4-6"
+        }
+    },
+    {
+        "day": 335,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "7-9"
+        }
+    },
+    {
+        "day": 336,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "11-12",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "10-12"
+        }
+    },
+    {
+        "day": 337,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "13-14",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "13-15"
+        }
+    },
+    {
+        "day": 338,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "15",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "16-18"
+        }
+    },
+    {
+        "day": 339,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "18",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Corinthians",
+            "chapters": "16",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "19-21"
+        }
+    },
+    {
+        "day": 340,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "19",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Corinthians",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "22-24"
+        }
+    },
+    {
+        "day": 341,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Corinthians",
+            "chapters": "3-5",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "28",
+            "verses": "25-28"
+        }
+    },
+    {
+        "day": 342,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "21",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Corinthians",
+            "chapters": "6-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "1-4"
+        }
+    },
+    {
+        "day": 343,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Corinthians",
+            "chapters": "9-11",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "5-7"
+        }
+    },
+    {
+        "day": 344,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "23",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Corinthians",
+            "chapters": "12-13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "8-11"
+        }
+    },
+    {
+        "day": 345,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "24",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Galatians",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "12-14"
+        }
+    },
+    {
+        "day": 346,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "25",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Galatians",
+            "chapters": "4-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "15-17"
+        }
+    },
+    {
+        "day": 347,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "26",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ephesians",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "18-21"
+        }
+    },
+    {
+        "day": 348,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "27",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Ephesians",
+            "chapters": "4-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "22-24"
+        }
+    },
+    {
+        "day": 349,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Acts",
+            "chapters": "28",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Philippians",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "29",
+            "verses": "25-27"
+        }
+    },
+    {
+        "day": 350,
+        "period": "The Church",
+        "first_reading": {
+            "book": "James",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Philippians",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "30",
+            "verses": "1-6"
+        }
+    },
+    {
+        "day": 351,
+        "period": "The Church",
+        "first_reading": {
+            "book": "James",
+            "chapters": "3-5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Colossians",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "30",
+            "verses": "7-9"
+        }
+    },
+    {
+        "day": 352,
+        "period": "The Church",
+        "first_reading": {
+            "book": "1Peter",
+            "chapters": "1-2",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Colossians",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "30",
+            "verses": "10-14"
+        }
+    },
+    {
+        "day": 353,
+        "period": "The Church",
+        "first_reading": {
+            "book": "1Peter",
+            "chapters": "3-5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1",
+            "chapters": "Thessalonians",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "1-3",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 354,
+        "period": "The Church",
+        "first_reading": {
+            "book": "2Peter",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1",
+            "chapters": "Thessalonians",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "4-5",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 355,
+        "period": "The Church",
+        "first_reading": {
+            "book": "1John",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2",
+            "chapters": "Thessalonians",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "1-3",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 356,
+        "period": "The Church",
+        "first_reading": {
+            "book": "1John",
+            "chapters": "4-5",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1",
+            "chapters": "Timothy",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "1-3",
+            "chapters": "Proverbs",
+            "verses": "all"
+        }
+    },
+    {
+        "day": 357,
+        "period": "The Church",
+        "first_reading": {
+            "book": "2John,",
+            "chapters": "3John",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "1Timothy",
+            "chapters": "4-6",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "30",
+            "verses": "29-33"
+        }
+    },
+    {
+        "day": 359,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Revelation",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "2Timothy",
+            "chapters": "3-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "31",
+            "verses": "8-9"
+        }
+    },
+    {
+        "day": 360,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Revelation",
+            "chapters": "4-7",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Titus",
+            "chapters": "1-3",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "31",
+            "verses": "10-15"
+        }
+    },
+    {
+        "day": 362,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Revelation",
+            "chapters": "12-14",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hebrews",
+            "chapters": "1-4",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "31",
+            "verses": "19-22"
+        }
+    },
+    {
+        "day": 363,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Revelation",
+            "chapters": "15-17",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hebrews",
+            "chapters": "5-8",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "31",
+            "verses": "23-25"
+        }
+    },
+    {
+        "day": 364,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Revelation",
+            "chapters": "18-20",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hebrews",
+            "chapters": "9-10",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "31",
+            "verses": "26-29"
+        }
+    },
+    {
+        "day": 365,
+        "period": "The Church",
+        "first_reading": {
+            "book": "Revelation",
+            "chapters": "21-22",
+            "verses": "all"
+        },
+        "second_reading": {
+            "book": "Hebrews",
+            "chapters": "11-13",
+            "verses": "all"
+        },
+        "poem": {
+            "book": "Proverbs",
+            "chapters": "31",
+            "verses": "30-31"
+        }
+    }
+]
