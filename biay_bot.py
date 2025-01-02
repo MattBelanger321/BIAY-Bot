@@ -126,8 +126,8 @@ class BibleBot:
         self.scheduler.add_job(
             self.send_bible_message,
             CronTrigger(
-                hour=2, 
-                minute=5, 
+                hour=0, 
+                minute=0, 
                 second=0, 
                 timezone=self.timezone
             )
